@@ -1,0 +1,21 @@
+Fri Apr 14 2017 10:11:14 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: Welcome to the chat, Revan 2.0!
+Fri Apr 14 2017 10:11:15 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: Bot detected! Kicking bot - bot is unauthorised!
+Fri Apr 14 2017 10:11:16 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: Congratulations on your new role, Revan 2.0!
+Fri Apr 14 2017 10:11:25 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: Shit
+Fri Apr 14 2017 10:11:31 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: Forgot about that
+Fri Apr 14 2017 10:11:37 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: !say botprotection false
+Fri Apr 14 2017 10:11:38 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: botprotection false
+Fri Apr 14 2017 10:11:49 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: !say !botprotection false
+Fri Apr 14 2017 10:11:50 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: !botprotection false
+Fri Apr 14 2017 10:11:50 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: Bot Protection was deactivated.
+Fri Apr 14 2017 10:11:58 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: Welcome to the chat, Revan 2.0!
+Fri Apr 14 2017 10:11:59 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: Congratulations on your new role, Revan 2.0!
+Fri Apr 14 2017 10:12:12 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: !say !botprotection true
+Fri Apr 14 2017 10:12:12 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: !botprotection true
+Fri Apr 14 2017 10:12:13 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: Bot Protection was activated.
+Fri Apr 14 2017 10:12:20 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: !speak hi
+Fri Apr 14 2017 10:13:14 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: !speak hi
+Fri Apr 14 2017 10:13:40 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: !speak test
+Fri Apr 14 2017 10:14:01 GMT+0700 (ICT) - 300809826164801539|FlutterBot 3.0: I guess I shall call you Revvy 2.0 from now on, Revan 2.0?
+Fri Apr 14 2017 10:14:45 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: test
+Fri Apr 14 2017 10:14:52 GMT+0700 (ICT) - 108090007117438976|Q. Celestia: !speak test
