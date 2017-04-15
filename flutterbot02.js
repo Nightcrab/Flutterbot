@@ -746,4 +746,4 @@ bot.on('message', (message) =>
 	
 });
 
-bot.login('MzAwODA5ODI2MTY0ODAxNTM5.C8x4lA.d4aQRLkdySz2JiXcz7CesMkCb34');
+bot.login('');
